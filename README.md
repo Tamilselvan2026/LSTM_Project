@@ -113,7 +113,7 @@ MongoDB Database
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-tourism-lstm.git
+git clone (https://github.com/Tamilselvan2026/LSTM_Project.git)
 ```
 
 ### Install Dependencies
